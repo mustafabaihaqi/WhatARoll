@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Tutorial Town","order":3,"parentId":0,"scrollX":1081.3333333333333,"scrollY":610,"quick":false},
+{"id":2,"expanded":true,"name":"Tutorial Town","order":2,"parentId":0,"scrollX":1081.3333333333333,"scrollY":610,"quick":false},
+{"id":3,"expanded":false,"name":"Tutorial House","order":1,"parentId":0,"scrollX":1081.3333333333333,"scrollY":610,"quick":false},
+{"id":4,"expanded":false,"name":"Ruins","order":7,"parentId":0,"scrollX":1228.5,"scrollY":735.75,"quick":false},
+{"id":5,"expanded":true,"name":"Kayla's Tent","order":4,"parentId":1,"scrollX":1081.3333333333333,"scrollY":610,"quick":false},
+{"id":6,"expanded":false,"name":"Chief's House","order":6,"parentId":1,"scrollX":619,"scrollY":340.5,"quick":false},
+{"id":7,"expanded":false,"name":"B-3's Tent","order":5,"parentId":1,"scrollX":1081.3333333333333,"scrollY":610,"quick":false}
+]

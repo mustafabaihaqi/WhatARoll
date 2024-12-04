@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"battlerName":"vey_character","characterIndex":0,"characterName":"vey_walking","classId":1,"equips":[2,27,46,2,0],"faceIndex":0,"faceName":"vey_face","traits":[{"code":31,"dataId":1,"value":1},{"code":43,"dataId":8,"value":1},{"code":43,"dataId":1,"value":1},{"code":43,"dataId":5,"value":1},{"code":43,"dataId":14,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Vey","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Kayla_Battler","characterIndex":0,"characterName":"Kayla_Walking","classId":3,"equips":[8,0,0,9,0],"faceIndex":0,"faceName":"Kayla_face","traits":[{"code":43,"dataId":3,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Kayla","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"b13-battler","characterIndex":0,"characterName":"b-13-walking","classId":2,"equips":[40,0,65,5,0],"faceIndex":0,"faceName":"b-13-face","traits":[{"code":43,"dataId":17,"value":1},{"code":43,"dataId":20,"value":1}],"initialLevel":1,"maxLevel":99,"name":"B-3","nickname":"","note":"","profile":""}
+]
